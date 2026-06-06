@@ -28,3 +28,22 @@ console.log(obj3)
 // immutable =  no one can change it 
 //mutable = changeable data 
 
+//postincrement 
+
+// let c = 10;
+// console.log(a++);
+// console.log(a)
+
+
+//preincrement 
+
+// let d = 15; 
+// console.log(++d )
+
+
+//comparison operator
+// console.log(28>59);
+
+
+console.log(true &&"aditya " )
+
