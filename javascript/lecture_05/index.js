@@ -90,3 +90,5 @@ console.log(arr4)
 
 // arr = arr2 it follows the object 
 //so that whatever changes in arr2 it woul dbe change in arr
+
+//..
