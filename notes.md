@@ -36,3 +36,5 @@ Lecture17: https://app.notion.com/p/Lecture-17-Prototype-classes-and-Eventloop-i
 Lecture18: https://app.notion.com/p/Lecture18-Callback-Hell-and-Promises-38e43ac5cab980358e38c75eae99dc6b?source=copy_link
 
 lecture19 : http
+
+
